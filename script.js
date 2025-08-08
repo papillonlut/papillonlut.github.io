@@ -1,5 +1,5 @@
 // Remplace par l'URL de ton site Vercel
-const portfolioUrl = 'https://ton-portfolio.vercel.app';
+const portfolioUrl = 'https://papillonlut-github-io.vercel.app/';
 
 // Compte à rebours
 let countdown = 3;
