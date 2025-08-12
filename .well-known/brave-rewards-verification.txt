@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: papillonlut.vercel.app
+Token: 3a75fe07306ae86f67b0e5dc76a497248e46fc3ff709562ba54a89aa973cad25
