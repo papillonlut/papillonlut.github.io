@@ -9,8 +9,3 @@
 ## Project Overview  
 A personal portfolio designed to showcase all the projects I’ve worked on, along with the skills I’ve mastered or developed along the way.  
 It’s both a visual résumé and a living record of my growth as a developer - a space where creativity meets code.  
-
-## Support the Project  
-If you enjoy my work and would like to support future developments, you can buy me a coffee or make a small donation:  
-
-[![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/papillonlut)
