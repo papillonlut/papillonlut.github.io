@@ -13,5 +13,4 @@ It’s both a visual résumé and a living record of my growth as a developer - 
 ## Support the Project  
 If you enjoy my work and would like to support future developments, you can buy me a coffee or make a small donation:  
 
-[![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/papillonlut)  
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=2N3HFMC3TSZKN)  
+[![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/papillonlut)
